@@ -1,0 +1,7 @@
+Required Libraries to install for generating QR code:
+
+1> pip install qrcode
+2> pip install PIL
+
+NOTE:- Once you generate the required QR code, it will show the output in the folder you saved the program. You can create QR of any string constant which may include any link or any text message.
+
